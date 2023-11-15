@@ -1,3 +1,2 @@
-# hello-world
-creating a hello world file
+# about-me
 my name is Yusuf Naser and i am a polytechnic student
